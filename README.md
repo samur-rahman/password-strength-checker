@@ -1,61 +1,43 @@
-Password Strength Checker
+# Password Strength Checker
 
 This project is a simple Password Strength Checker built using HTML, CSS, and JavaScript. It provides visual feedback on password strength and includes a toggle button to show or hide the password.
 
-Features
+## Features
 
-Show/Hide Password using an eye icon
+- **Show/Hide Password**: Toggle password visibility using an eye icon.
+- **Real-time Password Strength Indicator**: Shows if the password is Weak, Medium, or Strong.
+- **Styled with CSS**: Clean and user-friendly UI.
 
-Real-time Password Strength Indicator (Weak, Medium, Strong)
+## Project Structure
 
-Styled with CSS for a Clean UI
+password-strength-checker/ ├── index.html # HTML Structure ├── styles.css # CSS Styling ├── script.js # JavaScript Logic └── README.md # Project Documentation
 
-Project Structure
 
-password-strength-checker/
-├── index.html      # HTML Structure
-├── styles.css      # CSS Styling
-├── script.js       # JavaScript Logic
-└── README.md       # Project Documentation
+## How It Works
 
-How It Works
+1. Enter a password into the input field.
+2. Password strength is evaluated based on the following criteria:
+   - **Weak**: Contains only letters, numbers, or special characters.
+   - **Medium**: Contains letters and numbers, with at least 6 characters.
+   - **Strong**: Contains letters, numbers, and special characters, with at least 8 characters.
+3. **Password visibility toggle**: Click the eye icon to show/hide the password.
 
-Enter a password into the input field.
+## Technologies Used
 
-Password strength is evaluated based on:
+- **HTML**: Structure
+- **CSS**: Styling
+- **JavaScript**: Functionality
 
-Weak: Contains only letters, numbers, or special characters.
+## Setup & Usage
 
-Medium: Contains letters and numbers, with at least 6 characters.
+1. Clone the repository:
 
-Strong: Contains letters, numbers, and special characters, with at least 8 characters.
+   ```bash
+   git clone https://github.com/samur-rahman/password-strength-checker.git
 
-Password visibility toggle: Click the eye icon to show/hide the password.
-
-Technologies Used
-
-HTML (Structure)
-
-CSS (Styling)
-
-JavaScript (Functionality)
-
-Setup & Usage
-
-Clone the repository:
-
-git clone https://github.com/samur-rahman/password-strength-checker.git
-
-Open the project folder:
-
-cd password-strength-checker
-
-Open index.html in a browser.
-
-Contact
+## Contact
 
 For any questions or contributions, feel free to reach out:
 
-GitHub: samur-rahman
-
-Email: ahotasam@buffalo.edu
+- **GitHub**: [samur-rahman](https://github.com/samur-rahman)
+- **Email**: [ahotasam@buffalo.edu](mailto:ahotasam@buffalo.edu)
