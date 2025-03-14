@@ -1,8 +1,8 @@
-# password-strength-checker
+Password Strength Checker
 
 This project is a simple Password Strength Checker built using HTML, CSS, and JavaScript. It provides visual feedback on password strength and includes a toggle button to show or hide the password.
 
-Features:
+Features
 
 Show/Hide Password using an eye icon
 
@@ -10,16 +10,15 @@ Real-time Password Strength Indicator (Weak, Medium, Strong)
 
 Styled with CSS for a Clean UI
 
-Responsive Design
+Project Structure
 
-Project Structure:
 password-strength-checker/
-│-- index.html      # HTML Structure
-│-- styles.css      # CSS Styling
-│-- script.js       # JavaScript Logic
-└-- README.md       # Project Documentation
+├── index.html      # HTML Structure
+├── styles.css      # CSS Styling
+├── script.js       # JavaScript Logic
+└── README.md       # Project Documentation
 
-How It Works:
+How It Works
 
 Enter a password into the input field.
 
@@ -33,7 +32,7 @@ Strong: Contains letters, numbers, and special characters, with at least 8 chara
 
 Password visibility toggle: Click the eye icon to show/hide the password.
 
-Technologies Used:
+Technologies Used
 
 HTML (Structure)
 
@@ -41,17 +40,20 @@ CSS (Styling)
 
 JavaScript (Functionality)
 
-Setup & Usage:
+Setup & Usage
 
 Clone the repository:
+
 git clone https://github.com/samur-rahman/password-strength-checker.git
 
 Open the project folder:
+
 cd password-strength-checker
 
-Open index.html in a browser
+Open index.html in a browser.
 
-Contact:
+Contact
+
 For any questions or contributions, feel free to reach out:
 
 GitHub: samur-rahman
