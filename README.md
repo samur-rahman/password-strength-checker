@@ -14,7 +14,7 @@ This project is a simple Password Strength Checker built using HTML, CSS, and Ja
     ├── index.html  # HTML Structure 
     ├── styles.css  # CSS Styling 
     ├── script.js   # JavaScript Logic 
-    └── README.md   # Project Documentation
+    └── README.md   # Project Documentation```
 
 
 ## How It Works
